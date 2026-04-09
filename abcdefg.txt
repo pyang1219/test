@@ -1,0 +1,10 @@
+total 1242
+drwxr-xr-x 1 YUHAN 197121       0 Apr  9 13:51 ./
+drwxr-xr-x 1 YUHAN 197121       0 Apr  9 13:25 ../
+drwxr-xr-x 1 YUHAN 197121       0 Apr  9 13:49 .git/
+-rw-r--r-- 1 YUHAN 197121    7788 Apr  9 13:24 .gitignore
+-rw-r--r-- 1 YUHAN 197121 1213444 Mar 19 09:12 03_oss_터미널실습.pdf
+-rw-r--r-- 1 YUHAN 197121   35823 Apr  9 13:24 LICENSE
+-rw-r--r-- 1 YUHAN 197121     108 Apr  9 13:24 README.md
+-rw-r--r-- 1 YUHAN 197121       0 Apr  9 13:51 abcdefg.txt
+-rw-r--r-- 1 YUHAN 197121     374 Apr  9 13:25 ttt.txt
