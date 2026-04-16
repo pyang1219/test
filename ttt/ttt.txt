@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x 1 YUHAN 197121 0 Apr  9 13:25 ./
+drwxr-xr-x 1 YUHAN 197121 0 Apr  9 13:23 ../
+drwxr-xr-x 1 YUHAN 197121 0 Apr  9 13:24 test/
+-rw-r--r-- 1 YUHAN 197121 0 Apr  9 13:25 ttt.txt
